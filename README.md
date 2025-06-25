@@ -53,8 +53,8 @@ Key variables
 | `Pclass`    | Passenger Class (1 = 1st, 3 = 3rd)    |
 | `Sex`       | Gender                                |
 | `Age`       | Age in years                          |
-| `SibSp`     | # Siblings/Spouses aboard            |
-| `Parch`     | # Parents/Children aboard            |
+| `SibSp`     | Siblings/Spouses aboard               |
+| `Parch`     | Parents/Children aboard               |
 | `Fare`      | Ticket Fare                           |
 | `Embarked`  | Port of Embarkation (C/Q/S)           |
 
