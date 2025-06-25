@@ -90,4 +90,7 @@ A combination of industry-standard tools and Python libraries was used to analyz
 Kaggle Titanic Competition
 Inspired by data science learning projects
 
+
+📬 Let's Connect!  
+I’m always open to feedback, collaboration, or freelance data science and data analyst projects.
 📫 Connect with me on [LinkedIn](www.linkedin.com/in/rudrappakattimani)  
